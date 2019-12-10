@@ -79,3 +79,4 @@ pm2 logs company-scraper --lines 100 (check error logs)
 user: info@zyoninc.com
 pass: GooglePlay#9
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/HarishMahajan)
