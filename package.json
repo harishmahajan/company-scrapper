@@ -63,7 +63,7 @@
     "http-status": "^0.2.0",
     "joi": "9.2.0",
     "jsonwebtoken": "7.1.9",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "mailgun-js": "0.8.0",
     "method-override": "^2.3.5",
     "mongoose": "4.7.0",
