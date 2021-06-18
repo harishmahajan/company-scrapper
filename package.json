@@ -78,7 +78,7 @@
     "shelljs": "0.7.8",
     "spooky": "0.2.5",
     "stripe": "4.14.0",
-    "striptags": "3.0.1",
+    "striptags": "3.2.0",
     "tiny-jsonrpc": "2.0.1",
     "underscore": "1.8.3",
     "winston": "2.3.0",
