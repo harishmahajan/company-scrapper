@@ -75,7 +75,7 @@
     "regenerator-runtime": "0.11.0",
     "request": "2.79.0",
     "s3fs": "2.5.0",
-    "shelljs": "0.7.8",
+    "shelljs": "0.8.5",
     "spooky": "0.2.5",
     "stripe": "4.14.0",
     "striptags": "3.0.1",
